@@ -1,0 +1,28 @@
+@charset "utf-8";
+.imagen {
+    width: 207px;
+    height: 158px;
+}
+table {
+    -webkit-box-shadow: 0px 0px #74D1D0;
+    box-shadow: 0px 0px #74D1D0;
+    background-color: #C3E1E3;
+    border-bottom-left-radius: 0px;
+    border-color: #FFFFFF;
+    text-shadow: 0px 0px #000000;
+    text-align: left;
+    color: #222222;
+}
+.video {
+    width: 100%;
+    height: 500px;
+}
+
+body h1 {
+    text-align: center;
+
+
+}body {
+    background-color: #497E8B;
+    background-image: url(fonfoo.jpg);
+}
